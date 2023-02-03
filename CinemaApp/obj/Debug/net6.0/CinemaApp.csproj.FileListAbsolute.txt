@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\CinemaApp\CinemaApp\obj\Debug\net6.0\CinemaApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CinemaApp\CinemaApp\obj\Debug\net6.0\CinemaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CinemaApp\CinemaApp\obj\Debug\net6.0\CinemaApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CinemaApp\CinemaApp\obj\Debug\net6.0\CinemaApp.AssemblyInfo.cs
+C:\Users\User\source\repos\CinemaApp\CinemaApp\obj\Debug\net6.0\CinemaApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CinemaApp\CinemaApp\bin\Debug\net6.0\CinemaApp.exe
+C:\Users\User\source\repos\CinemaApp\CinemaApp\bin\Debug\net6.0\CinemaApp.deps.json
+C:\Users\User\source\repos\CinemaApp\CinemaApp\bin\Debug\net6.0\CinemaApp.runtimeconfig.json
+C:\Users\User\source\repos\CinemaApp\CinemaApp\bin\Debug\net6.0\CinemaApp.dll
+C:\Users\User\source\repos\CinemaApp\CinemaApp\bin\Debug\net6.0\CinemaApp.pdb
+C:\Users\User\source\repos\CinemaApp\CinemaApp\obj\Debug\net6.0\CinemaApp.dll
+C:\Users\User\source\repos\CinemaApp\CinemaApp\obj\Debug\net6.0\refint\CinemaApp.dll
+C:\Users\User\source\repos\CinemaApp\CinemaApp\obj\Debug\net6.0\CinemaApp.pdb
+C:\Users\User\source\repos\CinemaApp\CinemaApp\obj\Debug\net6.0\CinemaApp.genruntimeconfig.cache
+C:\Users\User\source\repos\CinemaApp\CinemaApp\obj\Debug\net6.0\ref\CinemaApp.dll
